@@ -1,5 +1,5 @@
-console.log("bai tap 1:");
-console.log("yeu cha me");
+console.log("bai tap so1")
+console.log("\"i love you\"");
 
 console.log("==================");
 
@@ -73,4 +73,5 @@ console.log(S);
 
 console.log("==================");
 console.log("bài tập 12:");
-
+let mang=[1,2,3,4,5];
+console.log(mang[4]);
